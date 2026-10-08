@@ -1,6 +1,6 @@
 # Tech Proxy website
 
-Source for [www.techproxy.co.uk](https://www.techproxy.co.uk), the website of Tech Proxy Ltd (company number 13354803).
+Source for [www.techproxy.co.uk](https://www.techproxy.co.uk).
 
 ## Structure
 
